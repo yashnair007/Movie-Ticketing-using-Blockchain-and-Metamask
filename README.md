@@ -1,3 +1,12 @@
+This System aims to make movie ticket bookings secure and hassle free.
+
+-> The entire website is Coded in React and establishes proper connectivity
+
+
+-> Metamask connection is done so that users can perfrom transactions from their metamask wallet.
+
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
